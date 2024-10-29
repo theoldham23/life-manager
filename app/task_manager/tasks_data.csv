@@ -1,0 +1,4 @@
+project_name,project_path,entry_module,next_run,schedule_interval,skip_intervals,status_change_date,notify_on_run,date_created,status,last_run,run_count,last_exec_time,avg_exec_time,prev_five_success,last_note,original_index
+test,/Users/kyleoldham/PycharmProjects/life manager bot test,main.py,1730054760.0,Days,3,,1,1729708774.409731,Active,1729709160.051612,2,0.045,0.031,1|1|-|-|-,"Hello
+World
+",
